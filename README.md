@@ -1,17 +1,16 @@
 # Heesung Youn
 
+> 🙋🏻‍♂️ &nbsp; I'm a Android View System Developer
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesung6701&show_icons=true&theme=radical)
 
-
 📗 &nbsp; Technial Stack &nbsp;📘
-
-> 🙋🏻‍♂️ &nbsp; I'm a Android Developer. 
 
 🖥 &nbsp; Mobile Application &nbsp; 🖥 
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit5&logoColor=white"/> 
+<img src="https://img.shields.io/static/v1?label=&message=MVVM&color=orange"/> <img src="https://img.shields.io/static/v1?label=&message=Data+binding&color=green"/> <img src="https://img.shields.io/static/v1?label=&message=Custom+view&color=blue"/>  <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit5&logoColor=white"/> 
 
 📬 &nbsp; Back-end &nbsp; 📬
 
