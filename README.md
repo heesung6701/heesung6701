@@ -1,6 +1,6 @@
 # Heesung Youn
 
-> 🙋🏻‍♂️ &nbsp; I'm a Android Developer
+> 🙋🏻‍♂️ &nbsp; I'm a Android Framework Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesung6701&show_icons=true&theme=radical)
 
@@ -14,11 +14,7 @@
 
 📬 &nbsp; Back-end &nbsp; 📬
 
-<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=Node&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white&textColor=white"/>
-
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=Node&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white&textColor=white"/> <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/>  
 
 
 🖋 &nbsp; Language &nbsp; 🖋
@@ -27,17 +23,11 @@
   
 ✨ &nbsp; Interested &nbsp; ✨
 
- <img src="https://img.shields.io/static/v1?label=&message=Atomic+design&color=important"/> <img src="https://img.shields.io/static/v1?label=&message=Design+pattern&color=yellowgreen"/> <img src="https://img.shields.io/static/v1?label=&message=Template+view&color=blue"/> <img src="https://img.shields.io/static/v1?label=&message=Clean+Code&color=lightgrey"/>
- 
-<img src="https://img.shields.io/badge/reactive-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Functional+programming&color=blueviolet"/> <img src="https://img.shields.io/static/v1?label=&message=Async&color=9cf"/> 
-
- <img src="https://img.shields.io/static/v1?label=&message=Automation&color=red"/>  
+ <img src="https://img.shields.io/static/v1?label=&message=Atomic+design&color=important"/> <img src="https://img.shields.io/static/v1?label=&message=Design+pattern&color=yellowgreen"/> <img src="https://img.shields.io/static/v1?label=&message=Template+view&color=blue"/> <img src="https://img.shields.io/static/v1?label=&message=Clean+Code&color=lightgrey"/> <img src="https://img.shields.io/badge/reactive-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Functional+programming&color=blueviolet"/> <img src="https://img.shields.io/static/v1?label=&message=Async&color=9cf"/> <img src="https://img.shields.io/static/v1?label=&message=Automation&color=red"/>  
 
 🧑‍💻 &nbsp; Beginner &nbsp; 🧑‍💻
 
-<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
 
 
 <!--
