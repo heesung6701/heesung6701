@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 
-<img src="https://img.shields.io/static/v1?label=&message=MVVM&color=orange"/> <img src="https://img.shields.io/static/v1?label=&message=Data+binding&color=green"/> <img src="https://img.shields.io/static/v1?label=&message=Custom+view&color=blue"/>  <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit5&logoColor=white"/> 
+<img src="https://img.shields.io/static/v1?label=&message=MVVM&color=orange"/> <img src="https://img.shields.io/static/v1?label=&message=Data+binding&color=green"/> <img src="https://img.shields.io/static/v1?label=&message=Custom+view&color=blue"/>  <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit5&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Compose&color=green"/> 
 
 📬 &nbsp; Back-end &nbsp; 📬
 
@@ -27,7 +27,7 @@
 
 🧑‍💻 &nbsp; Beginner &nbsp; 🧑‍💻
 
-<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> 
 
 
 <!--
