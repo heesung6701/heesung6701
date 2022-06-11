@@ -1,6 +1,6 @@
 # Heesung Youn
 
-> 🙋🏻‍♂️ &nbsp; I'm a Android Framework Developer
+> 🙋🏻‍♂️ &nbsp; I'm a Android UX View Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesung6701&show_icons=true&theme=radical)
 
@@ -19,7 +19,8 @@
 
 🖋 &nbsp; Language &nbsp; 🖋
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
   
 ✨ &nbsp; Interested &nbsp; ✨
 
@@ -27,8 +28,7 @@
 
 🧑‍💻 &nbsp; Beginner &nbsp; 🧑‍💻
 
-<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> 
 
 <!--
 **heesung6701/heesung6701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
