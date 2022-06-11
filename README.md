@@ -14,7 +14,7 @@
 
 📬 &nbsp; Back-end &nbsp; 📬
 
-<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=Node&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white&textColor=white"/> <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=Node&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white&textColor=white"/> <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/>  
 
 
 🖋 &nbsp; Language &nbsp; 🖋
