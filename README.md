@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 
-<img src="https://img.shields.io/static/v1?label=&message=Data+binding&color=green"/> <img src="https://img.shields.io/static/v1?label=&message=Custom+view&color=blue"/>  <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit5&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Compose&color=green"/>  <img src="https://img.shields.io/static/v1?label=&message=Gradle&color=deepgreen"/>  
+<img src="https://img.shields.io/static/v1?label=&message=ViewSystem&color=blue"/>  <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit5&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Framework&color=green"/>  <img src="https://img.shields.io/static/v1?label=&message=Gradle&color=deepgreen"/> <img src="https://img.shields.io/static/v1?label=&message=androidx&color=orange"/>  
 
 📬 &nbsp; Back-end &nbsp; 📬
 
@@ -20,7 +20,7 @@
 🖋 &nbsp; Language &nbsp; 🖋
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/>
   
 ✨ &nbsp; Interested &nbsp; ✨
 
@@ -28,7 +28,7 @@
 
 🧑‍💻 &nbsp; Beginner &nbsp; 🧑‍💻
 
-<img src="https://img.shields.io/badge/shell script-4EAA25?style=flat-square&logo=GNU+Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> 
 
 <!--
 **heesung6701/heesung6701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
